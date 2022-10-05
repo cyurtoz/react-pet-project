@@ -1,0 +1,20 @@
+.inp_label {
+    margin-top: 10px;
+    bottom: 2px;
+    display: block;
+}
+
+.submit {
+    margin-top: 10px;
+    display: block;
+    background: rosybrown;
+}
+
+.deleteButton {
+    display: inline-block;
+    float: right;
+}
+
+.roww {
+    border-style: dashed;
+}
